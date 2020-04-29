@@ -10,9 +10,7 @@
       "StatsService"
     ]
   },
-  "stats": {
-    "trackIp": true
-  },
+  "stats": {},
   "inbounds": [
     {
       // demo, it looks like there is no use
